@@ -24,5 +24,5 @@ It is an application build to simplify the problem of bringing in raw materials 
 
 # Deployed App Link:
 
-- vendor-help-gqr7doamn-pratyushs-projects-16e0bda5.vercel.app
+- https://vendor-help-six.vercel.app/
  
