@@ -10,3 +10,13 @@ It is an application build to simplify the problem of bringing in raw materials 
 - Tailwind CSS
 
 - React.JS
+
+# <a name="team-members">Team Members: </a>
+
+- Shrasti Jaiswal (Role: Deployment and Testing)
+
+- Aryan Singh (Role: Backend Development & Integration)
+
+- Pratyush Gupta (Role: Frontend Development & UI/UX Design)
+
+ 
